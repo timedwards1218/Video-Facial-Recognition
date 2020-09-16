@@ -3,6 +3,10 @@ Facial recognition during live stream video input using Python and OpenCV
 
 -Special thanks to Adrian at Pyimagesearch for the tutorial on how to first begin with facial detection and recognition.
 
+-For a live demo of the software, checkout the demo.mp4
+
+-Program has been successful identifying up to 5 faces simultaneously from the same video stream. 
+
 Required: Python 2.7 or later, including installations of modules:
 -opencv
 -imutils
